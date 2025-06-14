@@ -30,3 +30,10 @@ git push origin main
 ```bash
 git checkout -b NOM_BRANCHE
 ```
+
+## Gestion des Pull Requests (PR)
+
+```text
+Pour la bonne pratique, on va intégrer la notion de revue de code. Pour cela, on va créer une branche, faire des modifications, les envoyer sur le dépôt distant et créer une Pull Request (PR) pour que quelqu'un d'autre puisse valider les modifications. Cela nous permetra de tester la gestion des branches et des PR.
+```
+
